@@ -2,7 +2,7 @@
   "name": "daily-bread",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://rosemeaddistrict.github.io/daily-bread/",
+  "homepage": "https://rosemeaddistrict.github.io/dailybread",
   "type": "module",
   "scripts": {
     "dev": "vite",
