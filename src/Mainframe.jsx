@@ -15,7 +15,7 @@ function Mainframe(){
     //if(!dataLoaded) return <><p>Loading</p></>;
 
     return <>
-        <FetchJFile dataLoaded={dataLoaded} loadData={loadData}/>
+        {!dataLoaded && <FetchJFile loadData={loadData}/>}
         {dataLoaded && <Mainpage data={data}/>}
     </>;
 }

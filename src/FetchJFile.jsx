@@ -33,8 +33,7 @@ const FetchJFile = (props) => {
     return <div>Error: {error.message}</div>;
   }
 
-  if(!props.dataLoaded)
-    props.loadData(data);
+  props.loadData(data);
   
   return ;
 };
