@@ -4,8 +4,8 @@
         {
             "name": "晨兴圣言",
             "book": "2025年夏季训练 经历、享受并彰显基督（三）",
-            "chapter": "第十周",
-            "subject": "按着神牧养",
+            "chapter": "第十一周",
+            "subject": "永远生命的交通—在基督身体里生活的实际",
             "link": "https://chenin0423.synology.me:9090/study/"
         },
         {
@@ -16,7 +16,7 @@
                     "books": [
                         {
                         "name": "撒母耳记上",
-                        "chapters": "第13~17章"
+                        "chapters": "第18~22章"
                         }
                     ]
                 },
@@ -25,7 +25,7 @@
                     "books": [
                         {
                         "name": "启示录",
-                        "chapters": "第11~15章"
+                        "chapters": "第16~20章"
                         }
                     ]
                 }
@@ -33,18 +33,18 @@
             "link": "https://chenin0423.synology.me:9090/study/"
         },
         {
-            "name": "生命的认识",
+            "name": "属灵书报",
             "books": [
                 {
                     "name": "生命的认识", 
-                    "chapters": "第1~4篇"
+                    "chapters": "第5, 6篇"
                 },
                 {
                     "name": "圣经要道", 
-                    "chapters": "第11题"
+                    "chapters": "第21, 22题"
                 }
             ],
-            "date": "12.18.2025",
+            "date": "1.15.2025",
             "link": "https://chenin0423.synology.me:9090/study/"
         }
     ]
