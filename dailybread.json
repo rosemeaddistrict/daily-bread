@@ -6,7 +6,7 @@
             "book": "2025年夏季训练 经历、享受并彰显基督（三）",
             "chapter": "第十一周",
             "subject": "永远生命的交通—在基督身体里生活的实际",
-            "link": "https://chenin0423.synology.me:9090/study/"
+            "link": "https://my-google-api-server.onrender.com/study/"
         },
         {
             "name": "圣经",
@@ -34,7 +34,7 @@
                     ]
                 }
             ],
-            "link": "https://chenin0423.synology.me:9090/study/"
+            "link": "https://my-google-api-server.onrender.com/study/"
         },
         {
             "name": "属灵书报",
@@ -49,7 +49,7 @@
                 }
             ],
             "date": "1.15.2025",
-            "link": "https://chenin0423.synology.me:9090/study/"
+            "link": "https://my-google-api-server.onrender.com/study/"
         }
     ]
 }
