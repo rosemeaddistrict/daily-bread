@@ -1,11 +1,11 @@
 {
-    "curWeek": "1.18.2025 - 1.24.2025",
+    "curWeek": "1.25.2025 - 1.31.2025",
     "items": [
         {
             "name": "晨兴圣言",
             "book": "2025年秋季长老负责弟兄训练 马太福音五至七章极重要的方面",
-            "chapter": "第二周",
-            "subject": "哀恸者之福，温柔者之福，以及称为神儿子的制造和平者之福",
+            "chapter": "第三周",
+            "subject": "对于国度生活紧要的祷告",
             "link": "https://my-google-api-server.onrender.com/study/"
         },
         {
@@ -16,7 +16,7 @@
                     "books": [
                         {
                         "name": "撒母耳记下",
-                        "chapters": "第7~11章"
+                        "chapters": "第12~16章"
                         }
                     ]
                 },
@@ -25,7 +25,7 @@
                     "books": [
                         {
                         "name": "马太福音",
-                        "chapters": "第13~17章"
+                        "chapters": "第18~22章"
                         }
                     ]
                 }
